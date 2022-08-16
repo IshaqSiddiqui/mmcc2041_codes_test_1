@@ -1,6 +1,7 @@
 
 @media screen and (min-width: 600px) { 
 .container h1{
+    color: white;
     text-align: center;
     font-size: large;
     font-family: 'Courier New', Courier, monospace;
@@ -27,6 +28,7 @@ img:hover{
     opacity: .5;
     transition: .9s;
 }
+
 
 
 
